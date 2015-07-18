@@ -24,8 +24,9 @@ ICT4D: information and communication technologies for development
 Use sentence-style capitalization for titles of *Content Meets Strategy* blog posts and headings within blog posts.
 
 ## Credit lines
-Photo by [name], [license, if applicable]. Example:
-Photo by San José Library, CC BY-SA 2.0
+Photo by [name], [license, if applicable].
+
+*Example:* Photo by San José Library, CC BY-SA 2.0
 
 ## Punctuation
 “Compounds with *more, most, less, least,* and *very* usually open unless ambiguity threatens” (*CMS*, [7.85](http://www.chicagomanualofstyle.org/16/ch07/ch07_sec085.html)).
@@ -39,19 +40,19 @@ When describing how to navigate a menu, use the following punctuation:
 Use headline-style capitalization for composition titles.
 
 #### Blogs
-Italicize names of blogs (*CMS*, [14.246](http://www.chicagomanualofstyle.org/16/ch14/ch14_sec246.html)). Example:
+Italicize names of blogs (*CMS*, [14.246](http://www.chicagomanualofstyle.org/16/ch14/ch14_sec246.html)).
 
-Corey Vilhauer’s blog, *Eating Elephant* 
+*Example:* Corey Vilhauer’s blog, *Eating Elephant* 
 
 #### Blog posts and other web pages
-Wrap in quotation marks and keep in roman (*CMS*, [14.246](http://www.chicagomanualofstyle.org/16/ch14/ch14_sec246.html)). Example:
+Wrap in quotation marks and keep in roman (*CMS*, [14.246](http://www.chicagomanualofstyle.org/16/ch14/ch14_sec246.html)). 
 
-In “Adapting Ourselves to Adaptive Content,” Karen McGrane writes . . .
+*Example:* In “Adapting Ourselves to Adaptive Content,” Karen McGrane writes . . .
 
 #### Websites
-In general, use roman without quotation marks (*CMS*, [14.244](http://www.chicagomanualofstyle.org/16/ch14/ch14_sec244.html)). Example:
+In general, use roman without quotation marks (*CMS*, [14.244](http://www.chicagomanualofstyle.org/16/ch14/ch14_sec244.html)). 
 
-UX Booth
+*Example:* UX Booth
 
 ## List of organizations
 * Content Marketing Institute
