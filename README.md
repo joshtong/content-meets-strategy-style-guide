@@ -1,6 +1,8 @@
 # Style guide for the **Content Meets Strategy** blog
 **Primary style guide**: *Chicago Manual of Style* (**CMS**), 16th edition
+
 **Primary dictionary**: *Merriam-Webster’s Collegiate Dictionary* (**Webster’s**, 11th edition
+
 **Backup dictionary**: *Webster’s Third New International Dictionary of the English Language, Unabridged*
 
 ## Additions, exceptions, and reminders:
