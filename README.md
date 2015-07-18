@@ -38,17 +38,17 @@ When describing how to navigate a menu, use the following punctuation:
 ## Titles
 Use headline-style capitalization for composition titles.
 
-### Blogs
+#### Blogs
 Italicize names of blogs (*CMS*, 14.246). Example:
 
 Corey Vilhauer’s blog, *Eating Elephant* 
 
-### Blog posts and other web pages
+#### Blog posts and other web pages
 Wrap in quotation marks and keep in roman (*CMS*, 14.246). Example:
 
 In “Adapting Ourselves to Adaptive Content,” Karen McGrane writes . . .
 
-### Websites
+#### Websites
 In general, use roman without quotation marks (*CMS*, 14.244). Example:
 
 UX Booth
