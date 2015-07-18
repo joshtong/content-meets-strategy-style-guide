@@ -7,7 +7,7 @@ The blog is at [joshtong.net/blog/](http://www.joshtong.net/blog/).
 
 **Backup dictionary**: *Webster’s Third New International Dictionary of the English Language, Unabridged*
 
-## Additions, exceptions, and reminders:
+Additions, exceptions, and reminders:
 * [Abbreviations](#abbreviations)
 * [Capitalization](#capitalization)
 * [Credit lines](#credit-lines)
