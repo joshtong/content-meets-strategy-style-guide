@@ -28,9 +28,9 @@ Photo by [name], [license, if applicable]. Example:
 Photo by San José Library, CC BY-SA 2.0
 
 ## Punctuation
-“Compounds with *more, most, less, least,* and *very* usually open unless ambiguity threatens” (*CMS* 7.85).
+“Compounds with *more, most, less, least,* and *very* usually open unless ambiguity threatens” (*CMS*, [7.85](http://www.chicagomanualofstyle.org/16/ch07/ch07_sec085.html)).
 
-Follow *Chicago*'s the hyphenation guide for compounds and words formed with prefixes (*CMS*, 7.85).
+Follow *Chicago*'s the hyphenation guide for compounds and words formed with prefixes (*CMS*, [7.85](http://www.chicagomanualofstyle.org/16/ch07/ch07_sec085.html)).
 
 When describing how to navigate a menu, use the following punctuation:
 “Acquisition > Campaigns > All Campaigns”
@@ -39,17 +39,17 @@ When describing how to navigate a menu, use the following punctuation:
 Use headline-style capitalization for composition titles.
 
 #### Blogs
-Italicize names of blogs (*CMS*, 14.246). Example:
+Italicize names of blogs (*CMS*, [14.246](http://www.chicagomanualofstyle.org/16/ch14/ch14_sec246.html)). Example:
 
 Corey Vilhauer’s blog, *Eating Elephant* 
 
 #### Blog posts and other web pages
-Wrap in quotation marks and keep in roman (*CMS*, 14.246). Example:
+Wrap in quotation marks and keep in roman (*CMS*, [14.246](http://www.chicagomanualofstyle.org/16/ch14/ch14_sec246.html)). Example:
 
 In “Adapting Ourselves to Adaptive Content,” Karen McGrane writes . . .
 
 #### Websites
-In general, use roman without quotation marks (*CMS*, 14.244). Example:
+In general, use roman without quotation marks (*CMS*, [14.244](http://www.chicagomanualofstyle.org/16/ch14/ch14_sec244.html)). Example:
 
 UX Booth
 
