@@ -1,7 +1,7 @@
 # Style guide for the Content Meets Strategy blog
 The blog is at [joshtong.net/blog/](http://www.joshtong.net/blog/).
 
-**Primary style guide**: *Chicago Manual of Style* (*CMS*), 16th edition
+**Primary style guide**: *The Chicago Manual of Style* (*CMS*), 16th edition
 
 **Primary dictionary**: *Merriam-Webster’s Collegiate Dictionary* (*Webster’s*), 11th edition
 
