@@ -3,7 +3,7 @@ The blog is at [joshtong.net/blog/](http://www.joshtong.net/blog/).
 
 **Primary style guide**: *Chicago Manual of Style* (*CMS*), 16th edition
 
-**Primary dictionary**: *Merriam-Webster’s Collegiate Dictionary* (*Webster’s*, 11th edition
+**Primary dictionary**: *Merriam-Webster’s Collegiate Dictionary* (*Webster’s*), 11th edition
 
 **Backup dictionary**: *Webster’s Third New International Dictionary of the English Language, Unabridged*
 
