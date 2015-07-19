@@ -206,40 +206,65 @@ In general, use roman without quotation marks (*CMS*, [14.244](http://www.chicag
 ## List of words
 #### A
 agile
+
 #### B
+
 #### C
 * campaigns (in Google Analytics)
 * conversion funnels (in Google Analytics)
+
 #### D
+
 #### E
 * e-mail
 * e-commerce tracking (in Google Analytics)
 * event tracking
+
 #### F
+
 #### G
-* goals (in Google Analytics)
+goals (in Google Analytics)
+
 #### H
+
 #### I
+
 #### J
-* journey map; journey mapping
+journey map; journey mapping
+
 #### K
+
 #### L
-* lean
+lean
+
 #### M
-* millennials
+millennials
+
 #### N
+
 #### O
+
 #### P
+
 #### Q
+
 #### R
-* résumé
+résumé
+
 #### S
+
 #### T
-* toolkit
+toolkit
+
 #### U
+
 #### V
+
 #### W
-* waterfall
+waterfall
+
 #### X
+
 #### Y
+
 #### Z
