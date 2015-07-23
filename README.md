@@ -243,6 +243,7 @@ millennials
 #### N
 
 #### O
+open-source (before a noun); open source (after a noun)
 
 #### P
 
