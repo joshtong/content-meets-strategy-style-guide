@@ -57,7 +57,6 @@ In general, use roman without quotation marks (*CMS*, [14.244](http://www.chicag
 ## List of organizations
 * Content Marketing Institute
 * Dimagi
-* GitHub
 * General Services Administration (Integrated Technology Services)
 * Greenpeace Mobilisation Lab
 * Harvard Business Press
@@ -203,6 +202,19 @@ In general, use roman without quotation marks (*CMS*, [14.244](http://www.chicag
 * Yoskovitz, Benjamin
 * Young, Indi 
 
+## List of tools
+appear.in
+GitHub
+Google Analytics
+Google Tag Manager
+Google Webmaster Tools
+GoToAssist
+GoToMeeting
+Join.me
+Screenhero
+Skype
+WebEx Meetings
+
 ## List of words
 #### A
 agile
@@ -221,6 +233,7 @@ agile
 * event tracking
 
 #### F
+firsthand
 
 #### G
 goals (in Google Analytics)
@@ -250,6 +263,8 @@ open-source (before a noun); open source (after a noun)
 #### Q
 
 #### R
+real-time (before a noun); real time (after a noun)
+remote moderated usability testing
 résumé
 
 #### S
@@ -263,6 +278,7 @@ toolkit
 
 #### W
 waterfall
+webcam
 
 #### X
 
