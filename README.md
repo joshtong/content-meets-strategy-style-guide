@@ -15,6 +15,7 @@ Additions, exceptions, and reminders:
 * [Titles](#titles)
 * [List of organizations](#list-of-organizations)
 * [List of people](#list-of-people)
+* [List of tools](#list-of-tools)
 * [List of words](#list-of-words)
 
 ## Abbreviations
@@ -203,17 +204,17 @@ In general, use roman without quotation marks (*CMS*, [14.244](http://www.chicag
 * Young, Indi 
 
 ## List of tools
-appear.in
-GitHub
-Google Analytics
-Google Tag Manager
-Google Webmaster Tools
-GoToAssist
-GoToMeeting
-Join.me
-Screenhero
-Skype
-WebEx Meetings
+* appear.in
+* GitHub
+* Google Analytics
+* Google Tag Manager
+* Google Webmaster Tools
+* GoToAssist
+* GoToMeeting
+* Join.me
+* Screenhero
+* Skype
+* WebEx Meetings
 
 ## List of words
 #### A
@@ -263,9 +264,9 @@ open-source (before a noun); open source (after a noun)
 #### Q
 
 #### R
-real-time (before a noun); real time (after a noun)
-remote moderated usability testing
-résumé
+* real-time (before a noun); real time (after a noun)
+* remote moderated usability testing
+* résumé
 
 #### S
 
@@ -277,8 +278,8 @@ toolkit
 #### V
 
 #### W
-waterfall
-webcam
+* waterfall
+* webcam
 
 #### X
 
