@@ -43,7 +43,7 @@ When describing how to navigate a menu, use the following punctuation:
 
 “What precedes and, normally, what follows the four dots should be grammatically complete sentences as quoted, even if part of either sentence has been omitted” (*CMS*, [13.51](http://www.chicagomanualofstyle.org/16/ch13/ch13_sec051.html)).
 
-Example: “The spirit of our American radicalism is destructive and aimless. . . . On the other side, the conservative party . . . is timid, and merely defensive of property. . . . It does not build, nor write, nor cherish the arts, nor foster religion, nor establish schools” (*CMS*, [13.51](http://www.chicagomanualofstyle.org/16/ch13/ch13_sec051.html)).
+*Example:* “The conservative party . . . is timid, and merely defensive of property. . . . It does not build, nor write, nor cherish the arts, nor foster religion, nor establish schools” (*CMS*, [13.51](http://www.chicagomanualofstyle.org/16/ch13/ch13_sec051.html)).
 
 ## Titles
 Use headline-style capitalization for composition titles.
