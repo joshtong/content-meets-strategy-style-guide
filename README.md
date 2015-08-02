@@ -11,7 +11,7 @@ Additions, exceptions, and reminders:
 * [Abbreviations](#abbreviations)
 * [Capitalization](#capitalization)
 * [Credit lines](#credit-lines)
-* [Punctuation](#punctuation)
+* [Punctuation](#punctuation)p
 * [Titles](#titles)
 * [List of organizations](#list-of-organizations)
 * [List of people](#list-of-people)
@@ -36,6 +36,14 @@ Follow *Chicago*'s the hyphenation guide for compounds and words formed with pre
 
 When describing how to navigate a menu, use the following punctuation:
 “Acquisition > Campaigns > All Campaigns”
+
+### Ellipses
+
+“An _ellipsis_ is the omission of a word, phrase, line, paragraph, or more from a quoted passage. Such omissions are made of material that is considered irrelevant to the discussion at hand (or, occasionally, to adjust for the grammar of the surrounding text). Chicago style is to indicate such omissions by the use of three spaced periods” (*CMS*, [13.48](http://www.chicagomanualofstyle.org/16/ch13/ch13_sec048.html)).
+
+“What precedes and, normally, what follows the four dots should be grammatically complete sentences as quoted, even if part of either sentence has been omitted” (*CMS*, [13.51](http://www.chicagomanualofstyle.org/16/ch13/ch13_sec051.html)).
+
+Example: “The spirit of our American radicalism is destructive and aimless. . . . On the other side, the conservative party . . . is timid, and merely defensive of property. . . . It does not build, nor write, nor cherish the arts, nor foster religion, nor establish schools” (*CMS*, [13.51](http://www.chicagomanualofstyle.org/16/ch13/ch13_sec051.html)).
 
 ## Titles
 Use headline-style capitalization for composition titles.
