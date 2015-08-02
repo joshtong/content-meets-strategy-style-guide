@@ -11,7 +11,7 @@ Additions, exceptions, and reminders:
 * [Abbreviations](#abbreviations)
 * [Capitalization](#capitalization)
 * [Credit lines](#credit-lines)
-* [Punctuation](#punctuation)p
+* [Punctuation](#punctuation)
 * [Titles](#titles)
 * [List of organizations](#list-of-organizations)
 * [List of people](#list-of-people)
